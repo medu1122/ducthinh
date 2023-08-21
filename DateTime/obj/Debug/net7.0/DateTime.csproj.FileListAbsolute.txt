@@ -1,0 +1,15 @@
+D:\DucThinhCODEGYM\DateTime\bin\Debug\net7.0\DateTime.exe
+D:\DucThinhCODEGYM\DateTime\bin\Debug\net7.0\DateTime.deps.json
+D:\DucThinhCODEGYM\DateTime\bin\Debug\net7.0\DateTime.runtimeconfig.json
+D:\DucThinhCODEGYM\DateTime\bin\Debug\net7.0\DateTime.dll
+D:\DucThinhCODEGYM\DateTime\bin\Debug\net7.0\DateTime.pdb
+D:\DucThinhCODEGYM\DateTime\obj\Debug\net7.0\DateTime.csproj.AssemblyReference.cache
+D:\DucThinhCODEGYM\DateTime\obj\Debug\net7.0\DateTime.GeneratedMSBuildEditorConfig.editorconfig
+D:\DucThinhCODEGYM\DateTime\obj\Debug\net7.0\DateTime.AssemblyInfoInputs.cache
+D:\DucThinhCODEGYM\DateTime\obj\Debug\net7.0\DateTime.AssemblyInfo.cs
+D:\DucThinhCODEGYM\DateTime\obj\Debug\net7.0\DateTime.csproj.CoreCompileInputs.cache
+D:\DucThinhCODEGYM\DateTime\obj\Debug\net7.0\DateTime.dll
+D:\DucThinhCODEGYM\DateTime\obj\Debug\net7.0\refint\DateTime.dll
+D:\DucThinhCODEGYM\DateTime\obj\Debug\net7.0\DateTime.pdb
+D:\DucThinhCODEGYM\DateTime\obj\Debug\net7.0\DateTime.genruntimeconfig.cache
+D:\DucThinhCODEGYM\DateTime\obj\Debug\net7.0\ref\DateTime.dll
