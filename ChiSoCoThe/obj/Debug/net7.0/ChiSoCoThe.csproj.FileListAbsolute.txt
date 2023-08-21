@@ -1,0 +1,15 @@
+D:\DucThinhCODEGYM\ducthinh\ChiSoCoThe\bin\Debug\net7.0\ChiSoCoThe.exe
+D:\DucThinhCODEGYM\ducthinh\ChiSoCoThe\bin\Debug\net7.0\ChiSoCoThe.deps.json
+D:\DucThinhCODEGYM\ducthinh\ChiSoCoThe\bin\Debug\net7.0\ChiSoCoThe.runtimeconfig.json
+D:\DucThinhCODEGYM\ducthinh\ChiSoCoThe\bin\Debug\net7.0\ChiSoCoThe.dll
+D:\DucThinhCODEGYM\ducthinh\ChiSoCoThe\bin\Debug\net7.0\ChiSoCoThe.pdb
+D:\DucThinhCODEGYM\ducthinh\ChiSoCoThe\obj\Debug\net7.0\ChiSoCoThe.csproj.AssemblyReference.cache
+D:\DucThinhCODEGYM\ducthinh\ChiSoCoThe\obj\Debug\net7.0\ChiSoCoThe.GeneratedMSBuildEditorConfig.editorconfig
+D:\DucThinhCODEGYM\ducthinh\ChiSoCoThe\obj\Debug\net7.0\ChiSoCoThe.AssemblyInfoInputs.cache
+D:\DucThinhCODEGYM\ducthinh\ChiSoCoThe\obj\Debug\net7.0\ChiSoCoThe.AssemblyInfo.cs
+D:\DucThinhCODEGYM\ducthinh\ChiSoCoThe\obj\Debug\net7.0\ChiSoCoThe.csproj.CoreCompileInputs.cache
+D:\DucThinhCODEGYM\ducthinh\ChiSoCoThe\obj\Debug\net7.0\ChiSoCoThe.dll
+D:\DucThinhCODEGYM\ducthinh\ChiSoCoThe\obj\Debug\net7.0\refint\ChiSoCoThe.dll
+D:\DucThinhCODEGYM\ducthinh\ChiSoCoThe\obj\Debug\net7.0\ChiSoCoThe.pdb
+D:\DucThinhCODEGYM\ducthinh\ChiSoCoThe\obj\Debug\net7.0\ChiSoCoThe.genruntimeconfig.cache
+D:\DucThinhCODEGYM\ducthinh\ChiSoCoThe\obj\Debug\net7.0\ref\ChiSoCoThe.dll
