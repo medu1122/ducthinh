@@ -1,0 +1,15 @@
+D:\DucThinhCODEGYM\ducthinh\ToanTu\bin\Debug\net7.0\ToanTu.exe
+D:\DucThinhCODEGYM\ducthinh\ToanTu\bin\Debug\net7.0\ToanTu.deps.json
+D:\DucThinhCODEGYM\ducthinh\ToanTu\bin\Debug\net7.0\ToanTu.runtimeconfig.json
+D:\DucThinhCODEGYM\ducthinh\ToanTu\bin\Debug\net7.0\ToanTu.dll
+D:\DucThinhCODEGYM\ducthinh\ToanTu\bin\Debug\net7.0\ToanTu.pdb
+D:\DucThinhCODEGYM\ducthinh\ToanTu\obj\Debug\net7.0\ToanTu.csproj.AssemblyReference.cache
+D:\DucThinhCODEGYM\ducthinh\ToanTu\obj\Debug\net7.0\ToanTu.GeneratedMSBuildEditorConfig.editorconfig
+D:\DucThinhCODEGYM\ducthinh\ToanTu\obj\Debug\net7.0\ToanTu.AssemblyInfoInputs.cache
+D:\DucThinhCODEGYM\ducthinh\ToanTu\obj\Debug\net7.0\ToanTu.AssemblyInfo.cs
+D:\DucThinhCODEGYM\ducthinh\ToanTu\obj\Debug\net7.0\ToanTu.csproj.CoreCompileInputs.cache
+D:\DucThinhCODEGYM\ducthinh\ToanTu\obj\Debug\net7.0\ToanTu.dll
+D:\DucThinhCODEGYM\ducthinh\ToanTu\obj\Debug\net7.0\refint\ToanTu.dll
+D:\DucThinhCODEGYM\ducthinh\ToanTu\obj\Debug\net7.0\ToanTu.pdb
+D:\DucThinhCODEGYM\ducthinh\ToanTu\obj\Debug\net7.0\ToanTu.genruntimeconfig.cache
+D:\DucThinhCODEGYM\ducthinh\ToanTu\obj\Debug\net7.0\ref\ToanTu.dll
