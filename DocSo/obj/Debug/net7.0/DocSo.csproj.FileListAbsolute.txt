@@ -1,0 +1,15 @@
+D:\DucThinhCODEGYM\ducthinh\DocSo\bin\Debug\net7.0\DocSo.exe
+D:\DucThinhCODEGYM\ducthinh\DocSo\bin\Debug\net7.0\DocSo.deps.json
+D:\DucThinhCODEGYM\ducthinh\DocSo\bin\Debug\net7.0\DocSo.runtimeconfig.json
+D:\DucThinhCODEGYM\ducthinh\DocSo\bin\Debug\net7.0\DocSo.dll
+D:\DucThinhCODEGYM\ducthinh\DocSo\bin\Debug\net7.0\DocSo.pdb
+D:\DucThinhCODEGYM\ducthinh\DocSo\obj\Debug\net7.0\DocSo.csproj.AssemblyReference.cache
+D:\DucThinhCODEGYM\ducthinh\DocSo\obj\Debug\net7.0\DocSo.GeneratedMSBuildEditorConfig.editorconfig
+D:\DucThinhCODEGYM\ducthinh\DocSo\obj\Debug\net7.0\DocSo.AssemblyInfoInputs.cache
+D:\DucThinhCODEGYM\ducthinh\DocSo\obj\Debug\net7.0\DocSo.AssemblyInfo.cs
+D:\DucThinhCODEGYM\ducthinh\DocSo\obj\Debug\net7.0\DocSo.csproj.CoreCompileInputs.cache
+D:\DucThinhCODEGYM\ducthinh\DocSo\obj\Debug\net7.0\DocSo.dll
+D:\DucThinhCODEGYM\ducthinh\DocSo\obj\Debug\net7.0\refint\DocSo.dll
+D:\DucThinhCODEGYM\ducthinh\DocSo\obj\Debug\net7.0\DocSo.pdb
+D:\DucThinhCODEGYM\ducthinh\DocSo\obj\Debug\net7.0\DocSo.genruntimeconfig.cache
+D:\DucThinhCODEGYM\ducthinh\DocSo\obj\Debug\net7.0\ref\DocSo.dll
