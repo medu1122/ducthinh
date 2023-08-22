@@ -1,0 +1,15 @@
+D:\DucThinhCODEGYM\ducthinh\bai1DIeuKienIF\bin\Debug\net7.0\bai1DIeuKienIF.exe
+D:\DucThinhCODEGYM\ducthinh\bai1DIeuKienIF\bin\Debug\net7.0\bai1DIeuKienIF.deps.json
+D:\DucThinhCODEGYM\ducthinh\bai1DIeuKienIF\bin\Debug\net7.0\bai1DIeuKienIF.runtimeconfig.json
+D:\DucThinhCODEGYM\ducthinh\bai1DIeuKienIF\bin\Debug\net7.0\bai1DIeuKienIF.dll
+D:\DucThinhCODEGYM\ducthinh\bai1DIeuKienIF\bin\Debug\net7.0\bai1DIeuKienIF.pdb
+D:\DucThinhCODEGYM\ducthinh\bai1DIeuKienIF\obj\Debug\net7.0\bai1DIeuKienIF.csproj.AssemblyReference.cache
+D:\DucThinhCODEGYM\ducthinh\bai1DIeuKienIF\obj\Debug\net7.0\bai1DIeuKienIF.GeneratedMSBuildEditorConfig.editorconfig
+D:\DucThinhCODEGYM\ducthinh\bai1DIeuKienIF\obj\Debug\net7.0\bai1DIeuKienIF.AssemblyInfoInputs.cache
+D:\DucThinhCODEGYM\ducthinh\bai1DIeuKienIF\obj\Debug\net7.0\bai1DIeuKienIF.AssemblyInfo.cs
+D:\DucThinhCODEGYM\ducthinh\bai1DIeuKienIF\obj\Debug\net7.0\bai1DIeuKienIF.csproj.CoreCompileInputs.cache
+D:\DucThinhCODEGYM\ducthinh\bai1DIeuKienIF\obj\Debug\net7.0\bai1DIeuKienIF.dll
+D:\DucThinhCODEGYM\ducthinh\bai1DIeuKienIF\obj\Debug\net7.0\refint\bai1DIeuKienIF.dll
+D:\DucThinhCODEGYM\ducthinh\bai1DIeuKienIF\obj\Debug\net7.0\bai1DIeuKienIF.pdb
+D:\DucThinhCODEGYM\ducthinh\bai1DIeuKienIF\obj\Debug\net7.0\bai1DIeuKienIF.genruntimeconfig.cache
+D:\DucThinhCODEGYM\ducthinh\bai1DIeuKienIF\obj\Debug\net7.0\ref\bai1DIeuKienIF.dll
