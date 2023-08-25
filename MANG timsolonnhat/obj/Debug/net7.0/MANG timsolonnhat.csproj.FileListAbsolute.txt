@@ -1,0 +1,15 @@
+D:\DucThinhCODEGYM\ducthinh\MANG timsolonnhat\bin\Debug\net7.0\MANG timsolonnhat.exe
+D:\DucThinhCODEGYM\ducthinh\MANG timsolonnhat\bin\Debug\net7.0\MANG timsolonnhat.deps.json
+D:\DucThinhCODEGYM\ducthinh\MANG timsolonnhat\bin\Debug\net7.0\MANG timsolonnhat.runtimeconfig.json
+D:\DucThinhCODEGYM\ducthinh\MANG timsolonnhat\bin\Debug\net7.0\MANG timsolonnhat.dll
+D:\DucThinhCODEGYM\ducthinh\MANG timsolonnhat\bin\Debug\net7.0\MANG timsolonnhat.pdb
+D:\DucThinhCODEGYM\ducthinh\MANG timsolonnhat\obj\Debug\net7.0\MANG timsolonnhat.csproj.AssemblyReference.cache
+D:\DucThinhCODEGYM\ducthinh\MANG timsolonnhat\obj\Debug\net7.0\MANG timsolonnhat.GeneratedMSBuildEditorConfig.editorconfig
+D:\DucThinhCODEGYM\ducthinh\MANG timsolonnhat\obj\Debug\net7.0\MANG timsolonnhat.AssemblyInfoInputs.cache
+D:\DucThinhCODEGYM\ducthinh\MANG timsolonnhat\obj\Debug\net7.0\MANG timsolonnhat.AssemblyInfo.cs
+D:\DucThinhCODEGYM\ducthinh\MANG timsolonnhat\obj\Debug\net7.0\MANG timsolonnhat.csproj.CoreCompileInputs.cache
+D:\DucThinhCODEGYM\ducthinh\MANG timsolonnhat\obj\Debug\net7.0\MANG timsolonnhat.dll
+D:\DucThinhCODEGYM\ducthinh\MANG timsolonnhat\obj\Debug\net7.0\refint\MANG timsolonnhat.dll
+D:\DucThinhCODEGYM\ducthinh\MANG timsolonnhat\obj\Debug\net7.0\MANG timsolonnhat.pdb
+D:\DucThinhCODEGYM\ducthinh\MANG timsolonnhat\obj\Debug\net7.0\MANG timsolonnhat.genruntimeconfig.cache
+D:\DucThinhCODEGYM\ducthinh\MANG timsolonnhat\obj\Debug\net7.0\ref\MANG timsolonnhat.dll

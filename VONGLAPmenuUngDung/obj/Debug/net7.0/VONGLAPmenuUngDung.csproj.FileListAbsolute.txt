@@ -1,0 +1,15 @@
+D:\DucThinhCODEGYM\ducthinh\VONGLAPmenuUngDung\bin\Debug\net7.0\VONGLAPmenuUngDung.exe
+D:\DucThinhCODEGYM\ducthinh\VONGLAPmenuUngDung\bin\Debug\net7.0\VONGLAPmenuUngDung.deps.json
+D:\DucThinhCODEGYM\ducthinh\VONGLAPmenuUngDung\bin\Debug\net7.0\VONGLAPmenuUngDung.runtimeconfig.json
+D:\DucThinhCODEGYM\ducthinh\VONGLAPmenuUngDung\bin\Debug\net7.0\VONGLAPmenuUngDung.dll
+D:\DucThinhCODEGYM\ducthinh\VONGLAPmenuUngDung\bin\Debug\net7.0\VONGLAPmenuUngDung.pdb
+D:\DucThinhCODEGYM\ducthinh\VONGLAPmenuUngDung\obj\Debug\net7.0\VONGLAPmenuUngDung.csproj.AssemblyReference.cache
+D:\DucThinhCODEGYM\ducthinh\VONGLAPmenuUngDung\obj\Debug\net7.0\VONGLAPmenuUngDung.GeneratedMSBuildEditorConfig.editorconfig
+D:\DucThinhCODEGYM\ducthinh\VONGLAPmenuUngDung\obj\Debug\net7.0\VONGLAPmenuUngDung.AssemblyInfoInputs.cache
+D:\DucThinhCODEGYM\ducthinh\VONGLAPmenuUngDung\obj\Debug\net7.0\VONGLAPmenuUngDung.AssemblyInfo.cs
+D:\DucThinhCODEGYM\ducthinh\VONGLAPmenuUngDung\obj\Debug\net7.0\VONGLAPmenuUngDung.csproj.CoreCompileInputs.cache
+D:\DucThinhCODEGYM\ducthinh\VONGLAPmenuUngDung\obj\Debug\net7.0\VONGLAPmenuUngDung.dll
+D:\DucThinhCODEGYM\ducthinh\VONGLAPmenuUngDung\obj\Debug\net7.0\refint\VONGLAPmenuUngDung.dll
+D:\DucThinhCODEGYM\ducthinh\VONGLAPmenuUngDung\obj\Debug\net7.0\VONGLAPmenuUngDung.pdb
+D:\DucThinhCODEGYM\ducthinh\VONGLAPmenuUngDung\obj\Debug\net7.0\VONGLAPmenuUngDung.genruntimeconfig.cache
+D:\DucThinhCODEGYM\ducthinh\VONGLAPmenuUngDung\obj\Debug\net7.0\ref\VONGLAPmenuUngDung.dll
