@@ -1,0 +1,15 @@
+D:\DucThinhCODEGYM\ducthinh\domin\bin\Debug\net7.0\domin.exe
+D:\DucThinhCODEGYM\ducthinh\domin\bin\Debug\net7.0\domin.deps.json
+D:\DucThinhCODEGYM\ducthinh\domin\bin\Debug\net7.0\domin.runtimeconfig.json
+D:\DucThinhCODEGYM\ducthinh\domin\bin\Debug\net7.0\domin.dll
+D:\DucThinhCODEGYM\ducthinh\domin\bin\Debug\net7.0\domin.pdb
+D:\DucThinhCODEGYM\ducthinh\domin\obj\Debug\net7.0\domin.csproj.AssemblyReference.cache
+D:\DucThinhCODEGYM\ducthinh\domin\obj\Debug\net7.0\domin.GeneratedMSBuildEditorConfig.editorconfig
+D:\DucThinhCODEGYM\ducthinh\domin\obj\Debug\net7.0\domin.AssemblyInfoInputs.cache
+D:\DucThinhCODEGYM\ducthinh\domin\obj\Debug\net7.0\domin.AssemblyInfo.cs
+D:\DucThinhCODEGYM\ducthinh\domin\obj\Debug\net7.0\domin.csproj.CoreCompileInputs.cache
+D:\DucThinhCODEGYM\ducthinh\domin\obj\Debug\net7.0\domin.dll
+D:\DucThinhCODEGYM\ducthinh\domin\obj\Debug\net7.0\refint\domin.dll
+D:\DucThinhCODEGYM\ducthinh\domin\obj\Debug\net7.0\domin.pdb
+D:\DucThinhCODEGYM\ducthinh\domin\obj\Debug\net7.0\domin.genruntimeconfig.cache
+D:\DucThinhCODEGYM\ducthinh\domin\obj\Debug\net7.0\ref\domin.dll
