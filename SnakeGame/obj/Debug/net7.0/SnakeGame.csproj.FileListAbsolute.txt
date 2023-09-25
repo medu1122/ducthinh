@@ -1,0 +1,15 @@
+D:\DucThinhCODEGYM\ducthinh\SnakeGame\bin\Debug\net7.0\SnakeGame.exe
+D:\DucThinhCODEGYM\ducthinh\SnakeGame\bin\Debug\net7.0\SnakeGame.deps.json
+D:\DucThinhCODEGYM\ducthinh\SnakeGame\bin\Debug\net7.0\SnakeGame.runtimeconfig.json
+D:\DucThinhCODEGYM\ducthinh\SnakeGame\bin\Debug\net7.0\SnakeGame.dll
+D:\DucThinhCODEGYM\ducthinh\SnakeGame\bin\Debug\net7.0\SnakeGame.pdb
+D:\DucThinhCODEGYM\ducthinh\SnakeGame\obj\Debug\net7.0\SnakeGame.csproj.AssemblyReference.cache
+D:\DucThinhCODEGYM\ducthinh\SnakeGame\obj\Debug\net7.0\SnakeGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\DucThinhCODEGYM\ducthinh\SnakeGame\obj\Debug\net7.0\SnakeGame.AssemblyInfoInputs.cache
+D:\DucThinhCODEGYM\ducthinh\SnakeGame\obj\Debug\net7.0\SnakeGame.AssemblyInfo.cs
+D:\DucThinhCODEGYM\ducthinh\SnakeGame\obj\Debug\net7.0\SnakeGame.csproj.CoreCompileInputs.cache
+D:\DucThinhCODEGYM\ducthinh\SnakeGame\obj\Debug\net7.0\SnakeGame.dll
+D:\DucThinhCODEGYM\ducthinh\SnakeGame\obj\Debug\net7.0\refint\SnakeGame.dll
+D:\DucThinhCODEGYM\ducthinh\SnakeGame\obj\Debug\net7.0\SnakeGame.pdb
+D:\DucThinhCODEGYM\ducthinh\SnakeGame\obj\Debug\net7.0\SnakeGame.genruntimeconfig.cache
+D:\DucThinhCODEGYM\ducthinh\SnakeGame\obj\Debug\net7.0\ref\SnakeGame.dll
